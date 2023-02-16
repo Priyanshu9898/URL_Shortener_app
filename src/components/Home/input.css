@@ -1,0 +1,15 @@
+.inp{
+    /* z-index: 99; */
+    color: "white",
+}
+.inp:focus {
+    color: #a4f4e8;
+  
+}
+
+.box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #3D1766;
+}

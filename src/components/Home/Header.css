@@ -1,0 +1,30 @@
+.header{
+    /* width: 100%; */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    height: 50vh;
+    padding: 0px 0px 0px 90px;
+    
+}
+
+
+
+.title{
+    font-size: 60px !important;;
+}
+
+.para{
+    color: hsl(0, 0%, 72%)''
+}
+
+.first{
+    width: 100%;
+    margin-right: 50px;
+ 
+}
+
+.second img{
+    width: 90%
+}

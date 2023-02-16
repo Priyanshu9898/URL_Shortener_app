@@ -1,0 +1,7 @@
+.img{
+    cursor: pointer;
+}
+
+.img:hover{
+    color: rgb(35, 189, 189);
+}
