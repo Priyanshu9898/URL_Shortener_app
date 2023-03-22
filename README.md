@@ -1,68 +1,26 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+# URL Shortener App
 
-In the project directory, you can run:
+Website Link: https://url-shortener-app-9k2o.vercel.app/
 
-### `npm start`
+Goal of the project:
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+    The goal of this project was to create a URL Shortener website using React.js, Chakra UI, and the api.shrtco.de API. The website is designed to provide users with a quick and easy way to shorten long URLs, making them more manageable and shareable.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+Process of development:
 
-### `npm test`
+    The development of the URL Shortener website involved designing a user-friendly interface using Chakra UI components and integrating the api.shrtco.de API to shorten URLs. The website was built using React.js, a popular front-end JavaScript library that allowed for the creation of a responsive and dynamic user interface. The website was also optimized for performance and tested rigorously to ensure it functions correctly under different loads.
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Features of the project:
 
-### `npm run build`
+    1. URL Shortening: 
+    The website allows users to enter long URLs and quickly shorten them using the shrtco URL Shortener API. The shortened URLs are automatically copied to the user's clipboard for easy sharing.
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+    2. Custom Short URLs: 
+    Users can customize the shortened URL by entering a custom alias, allowing for a more personalized and memorable link.
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+    3. Responsive Design: 
+    The website is designed to be responsive and easily accessible from any device, including desktops, tablets, and smartphones.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+    4. User-Friendly Interface: 
+    The website features a modern and intuitive interface that makes it easy for users to shorten URLs and access previous Links. The Chakra UI components used in the interface provide a consistent and visually appealing design.
