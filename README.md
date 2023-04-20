@@ -1,7 +1,7 @@
 
 # URL Shortener App
 
-Website Link: https://url-shortener-app-9k2o.vercel.app/
+## Website Link: https://url-shortener-app-9k2o.vercel.app/
 
 ## Goal of the project:
 
